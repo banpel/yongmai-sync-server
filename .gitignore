@@ -1,0 +1,4 @@
+node_modules/
+data/sync_data.json
+data/auth_users.json
+*.log
